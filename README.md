@@ -37,6 +37,6 @@ Birden çok satır için üç tane ``` ile kod bloğu oluşturulur.
 `print("hi world")`
 ```python
 def selam():
-    print("Merhaba Dünya")```
+    print("Merhaba Dünya")
 
 
