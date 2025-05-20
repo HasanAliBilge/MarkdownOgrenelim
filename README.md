@@ -28,7 +28,7 @@ Büyük başlıkdan küçük başlığa
 3. üç
 ## Bağlantı 
 [Google](https://www.google.com)
----
+
 ## Resim
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Kod Blokları
