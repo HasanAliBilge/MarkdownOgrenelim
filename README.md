@@ -21,7 +21,7 @@ Büyük başlıkdan küçük başlığa
 - elma
 - armut
 - domates
----
+
 ### Sıralı
 1. bir
 2. iki
