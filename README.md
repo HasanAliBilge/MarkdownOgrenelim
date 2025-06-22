@@ -7,7 +7,7 @@
 - **Discord Modülü ile ilgili projeler tasarlıyorum**
 - [Google](https://www.google.com)
 - ## Resim
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![x](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
