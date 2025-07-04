@@ -52,7 +52,7 @@ __kalın__ ve _italik_
 
 ## 5. Resim Ekleme
 
-![Alternatif Metin](https://via.placeholder.com/150)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
